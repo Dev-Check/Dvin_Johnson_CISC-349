@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login2</string>
+    <string name="user_prompt">Enter Username</string>
+    <string name="password_prompt">Enter Password</string>
+</resources>
